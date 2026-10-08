@@ -1,13 +1,28 @@
-- **Project Title:** Git Practice Project
+# Git Practice Project
 
-- **Name:** Md Raisul Islam
+## Student Information
 
-## Project Description
+| Field | Information |
+|---|---|
+| Name | Md Raisul Islam |
+| GitHub Username | raisul-labs |
+
+## Project Overview
 
 This project is created as part of a Git & GitHub practical assignment.
 
-The project demonstrates basic Git operations, branching, merging,
-and a simple Python program.
+It demonstrates fundamental Git and GitHub operations through a
+simple Python calculator application.
+
+## Features
+
+- Display student name
+- Display current date
+- Addition
+- Subtraction
+- Git branching
+- Git merging
+- GitHub version control
 
 ## Technologies
 
