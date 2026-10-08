@@ -29,3 +29,10 @@ simple Python calculator application.
 - Python
 - Git
 - GitHub
+
+## Usage
+
+Run the application from the project root:
+
+```bash
+python src/main.py
