@@ -4,22 +4,34 @@
 
 This project is a practical demonstration of Git and GitHub.
 
-It contains a simple Python program and will be extended with
-basic calculator functionality.
+The project contains a Python calculator application and demonstrates
+different version control operations.
 
-## Objectives
+## Features
 
-The project demonstrates:
+The calculator currently supports:
 
-- Git repository initialization
-- File tracking
+- Addition
+- Subtraction
+- Multiplication
+
+The project also demonstrates:
+
+- Git initialization
 - Git commits
 - Branch creation
 - Branch merging
-- GitHub repository management
-- Basic Python programming
+- Remote repository management
+- GitHub push
 
-## Technology
+## Project Structure
 
-Python is used to build the basic application.
-Git and GitHub are used for version control.
+```text
+git-practice-yourname/
+├── README.md
+├── .gitignore
+├── src/
+│   ├── main.py
+│   └── utils.py
+└── docs/
+    └── project-description.md
