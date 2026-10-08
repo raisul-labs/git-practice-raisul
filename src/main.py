@@ -1,9 +1,14 @@
 from datetime import date
+from utils import add, subtract
 
 
 def main():
     print("Name: Md Raisul Islam")
     print("Today's Date:", date.today())
+
+    print("\nCalculator")
+    print("Addition:", add(10, 5))
+    print("Subtraction:", subtract(10, 5))
 
 
 if __name__ == "__main__":
